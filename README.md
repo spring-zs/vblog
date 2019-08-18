@@ -1,3 +1,6 @@
+项目原始地址是：https://gitee.com/seu-lfh/vblog
+一切权利属于原作者规定。本处只是从码云移植到github上，备份学习
+
 # vblog-api
 
 - 项目预览地址：https://blog.xiaoxinfq.com/
